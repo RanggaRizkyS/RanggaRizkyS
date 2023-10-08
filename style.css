@@ -1,0 +1,31 @@
+.herosection {
+    padding-top: 5rem;
+    background-color: #aee8ff
+}
+
+.language {
+    padding-top: 2rem;
+    background-color: #aee8ff
+}
+
+.flink {
+    text-decoration: none;
+    background-color: #8bd8f7;
+    border-radius: 6px;
+    border-bottom: #222222 solid 4px;
+    padding: 8px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.ig {
+    color: #E1306C;
+}
+
+.wa {
+    color: #1ba34d;
+}
+
+.gmail {
+    color: #c5970b;
+}
